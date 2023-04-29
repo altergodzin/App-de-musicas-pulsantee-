@@ -1,0 +1,11 @@
+body{
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.heading {
+    background-color: black;
+    color: goldenrod;
+    box-shadow: rgb(0, 206, 247);
+    margin: auto;
+    font-size: 25px;
+}
